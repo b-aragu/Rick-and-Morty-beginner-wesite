@@ -1,0 +1,27 @@
+body {
+background-image: url(/pics/cool-rick-and-morty-element-symbols-fok6gayoxwsc5mrr\ \(1\).jpeg);
+background-size: auto;
+}
+.Teddy ul li{
+    color: rgb(55, 238, 55);
+    display: inline-block;
+    margin-left: 70px;
+    margin-right: 50px;
+    width: auto;
+   justify-items: center;
+   align-items: center;
+   font-size: 30px;
+   font-weight: 800;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.Teddy ul li a {
+    color: rgb(55, 238, 55);
+    text-decoration: none;
+}
+.Teddy ul li a:hover {
+    background-color: rgb(180, 241, 187);
+    box-sizing: border-box;
+    border-radius: 50px;
+    
+}
